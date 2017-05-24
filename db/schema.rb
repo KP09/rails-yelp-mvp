@@ -31,6 +31,3 @@ ActiveRecord::Schema.define(version: 20170524101815) do
   end
 
 end
-
-params[:restaurant_id]
-params[:review]
